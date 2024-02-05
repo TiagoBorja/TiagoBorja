@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tiago Borja, I am 18 years old, and I search ever learning.
+- 👀 I’m interested in new experiences and be a great developer.
+- 🌱 I’m currently learning .NET(C#) and in the future Angular to create web pages.
